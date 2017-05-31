@@ -1,2 +1,3 @@
-# webassembly-experiments
+# WebAssembly Experiments
+
 Set of WebAssembly experiment programs.
